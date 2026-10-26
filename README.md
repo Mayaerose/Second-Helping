@@ -58,7 +58,7 @@ This app doesn't need a server or an API key.
 - How to use a lookup object to turn codes like `food_pantry` into friendly labels
 - How to fix a background image so it doesn't repeat
 
-VIEW APP HERE: https://second-helping.onrender.com/
+VIEW APP HERE: https://second-helping.onrender.com
 
 ## Author
 
