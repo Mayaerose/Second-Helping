@@ -13,6 +13,11 @@
 body {
 	font-family: -apple-system, "Segoe UI", Arial, sans-serif;
 	background-image: url("../assets/images/backphoto.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed; 
+	background-color: #f3e3cf; 
 	color: rgb(10, 9, 9);
 	margin: 0;
 	padding: 20px;
@@ -23,6 +28,7 @@ body {
 	margin: 0 auto;
 	border-radius: 3px;
 	padding: 30px;
+	background-color: rgba(255, 255, 255, 0.88);
 }
 
 h1 {
